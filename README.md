@@ -32,3 +32,13 @@ Demonstrar o uso do serviço Amazon SNS integrado a uma função Lambda para env
   "numero": "+55S44999309823",
   "mensagem": "Sua mensagem personalizada aqui."
 }
+```
+
+### Entrada esperada
+
+```json
+{
+  "mensagem": "Mensagem enviada com sucesso!",
+  "response": {
+  }
+}
