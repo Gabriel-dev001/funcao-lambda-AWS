@@ -5,8 +5,7 @@ Esta função permite enviar mensagens de texto (SMS) usando o serviço Amazon S
 ---
 
 # Link da Lambda:
-https://sa-east-1.console.aws.amazon.com/lambda/home?region=sa-east-1#/functions/enviarSMS?newFunction=true&tab=code
-
+https://ebugzynjhbc24353ofcakkfiyu0rjdof.lambda-url.sa-east-1.on.aws/)](https://ebugzynjhbc24353ofcakkfiyu0rjdof.lambda-url.sa-east-1.on.aws/
 ---
 
 # Objetivo
