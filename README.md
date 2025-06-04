@@ -5,7 +5,7 @@ Esta função permite enviar mensagens de texto (SMS) usando o serviço Amazon S
 ---
 
 # Link da Lambda:
-https://ebugzynjhbc24353ofcakkfiyu0rjdof.lambda-url.sa-east-1.on.aws/)](https://ebugzynjhbc24353ofcakkfiyu0rjdof.lambda-url.sa-east-1.on.aws/
+https://ebugzynjhbc24353ofcakkfiyu0rjdof.lambda-url.sa-east-1.on.aws/
 ---
 
 # Objetivo
